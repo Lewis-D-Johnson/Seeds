@@ -79,12 +79,12 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraMovement.cs" />
-    <Compile Include="Assets\Scripts\Generator.cs" />
     <Compile Include="Assets\Scripts\Interaction\Interactable.cs" />
     <Compile Include="Assets\Scripts\Interaction\Interaction.cs" />
-    <Compile Include="Assets\Scripts\Plant.cs" />
+    <Compile Include="Assets\Scripts\Plants\Generator.cs" />
     <Compile Include="Assets\Scripts\Plants\Growable.cs" />
-    <Compile Include="Assets\Scripts\UIManager.cs" />
+    <Compile Include="Assets\Scripts\Plants\Plant.cs" />
+    <Compile Include="Assets\Scripts\UI\UIManager.cs" />
     <None Include="Assets\Imported\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
     <None Include="Assets\Imported\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
     <None Include="Assets\Imported\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
